@@ -1,0 +1,12 @@
+C:\Projetos\DevStoreApi\DevStore\DevStore.Infra\bin\Debug\netstandard2.0\DevStore.Infra.deps.json
+C:\Projetos\DevStoreApi\DevStore\DevStore.Infra\bin\Debug\netstandard2.0\DevStore.Infra.dll
+C:\Projetos\DevStoreApi\DevStore\DevStore.Infra\bin\Debug\netstandard2.0\DevStore.Infra.pdb
+C:\Projetos\DevStoreApi\DevStore\DevStore.Infra\bin\Debug\netstandard2.0\DevStore.Domain.dll
+C:\Projetos\DevStoreApi\DevStore\DevStore.Infra\bin\Debug\netstandard2.0\DevStore.Domain.pdb
+C:\Projetos\DevStoreApi\DevStore\DevStore.Infra\obj\Debug\netstandard2.0\DevStore.Infra.csprojAssemblyReference.cache
+C:\Projetos\DevStoreApi\DevStore\DevStore.Infra\obj\Debug\netstandard2.0\DevStore.Infra.AssemblyInfoInputs.cache
+C:\Projetos\DevStoreApi\DevStore\DevStore.Infra\obj\Debug\netstandard2.0\DevStore.Infra.AssemblyInfo.cs
+C:\Projetos\DevStoreApi\DevStore\DevStore.Infra\obj\Debug\netstandard2.0\DevStore.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\DevStoreApi\DevStore\DevStore.Infra\obj\Debug\netstandard2.0\DevStore.Infra.csproj.CopyComplete
+C:\Projetos\DevStoreApi\DevStore\DevStore.Infra\obj\Debug\netstandard2.0\DevStore.Infra.dll
+C:\Projetos\DevStoreApi\DevStore\DevStore.Infra\obj\Debug\netstandard2.0\DevStore.Infra.pdb

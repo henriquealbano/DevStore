@@ -1,0 +1,8 @@
+C:\Projetos\DevStoreApi\DevStore\DevStore.Domain\bin\Debug\netstandard2.0\DevStore.Domain.deps.json
+C:\Projetos\DevStoreApi\DevStore\DevStore.Domain\bin\Debug\netstandard2.0\DevStore.Domain.dll
+C:\Projetos\DevStoreApi\DevStore\DevStore.Domain\bin\Debug\netstandard2.0\DevStore.Domain.pdb
+C:\Projetos\DevStoreApi\DevStore\DevStore.Domain\obj\Debug\netstandard2.0\DevStore.Domain.AssemblyInfoInputs.cache
+C:\Projetos\DevStoreApi\DevStore\DevStore.Domain\obj\Debug\netstandard2.0\DevStore.Domain.AssemblyInfo.cs
+C:\Projetos\DevStoreApi\DevStore\DevStore.Domain\obj\Debug\netstandard2.0\DevStore.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\DevStoreApi\DevStore\DevStore.Domain\obj\Debug\netstandard2.0\DevStore.Domain.dll
+C:\Projetos\DevStoreApi\DevStore\DevStore.Domain\obj\Debug\netstandard2.0\DevStore.Domain.pdb

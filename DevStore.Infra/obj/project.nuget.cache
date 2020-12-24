@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "xRGWFF1pgP8379U6rJbPc4OspnRfFUb5C3PPpdLBSZQHyYIW57+rQsTz7w5+TOBv+SkNX7pbEvW+Sr30NeuY4g==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\DevStoreApi\\DevStore\\DevStore.Infra\\DevStore.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Albano\\.nuget\\packages\\entityframework\\6.0.2\\entityframework.6.0.2.nupkg.sha512",
+    "C:\\Users\\Albano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Albano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'EntityFramework 6.0.2' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETStandard,Version=v2.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
